@@ -1,0 +1,16 @@
+{
+    "grupo.id": "-1001476892618", 
+    "Membros Filtrados": [], 
+    "Sistema Anti-Spam": {
+        "aguardar(segundos) a cada adicao de membro": [60, 180], 
+        "aguardar(segundos) por peerflooderror": [100, 1000], 
+        "limide de adicao de membros por conta": 20, 
+        "periodo de horas(em segundos) que contas ira hibernar após atingir limites de adicao de membros": 28800
+    }, 
+    "Telegram Accounts": {
+        "+12102945152.session:{
+            "phone":+12102945152,
+            "api_id":21858451,
+            "api_hash": "cc718d85311490c41a361272458f46d5"
+    }
+}
